@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2>  Soy Renzo Barcos <img src = "https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width = "50"> </h2>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+<p> <em> Desarrollador Front End  </em> </p>
 
-<!--
-**respp/respp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" href="https://www.linkedin.com/in/renzo-espinosa-barcos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:renzoespinosa.b@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
-Here are some ideas to get you started:
+### A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+let RenzoBarcos = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "React", "Styled-components", "Next.js", "Redux", "Express" "Node", "HTML", "CSS", "Bootstrap", "SASS",
+           "PHP", "Mysql", "Java", "Astro"],
+    tools: ["React", "HTML", "CSS, "Bootstrap", "SASS", "Styled-components", "Next.js", "Redux"],
+};
+```
+
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MatiAlva&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
