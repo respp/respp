@@ -27,7 +27,7 @@ let RenzoBarcos = {
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/respp/respp/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/respp/respp/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 </div>
