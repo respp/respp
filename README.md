@@ -12,7 +12,6 @@
 
 ```javascript
 let RenzoBarcos = {
-    pronouns: "He" | "Him",
     code: ["React", "NodeJs", "Next.js", "Redux", "Express", "HTML", "CSS", "Javascript", "Mysql", "Astro", "MongoDB"],
     tools: ["React", "HTML", "CSS, "Bootstrap", "SASS", "Styled-components", "Next.js", "Redux"],
 };
