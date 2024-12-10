@@ -1,19 +1,29 @@
-<h2>  I´m Renzo Barcos <img src = "https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width = "50"> </h2>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
-<p> <em> FullStack Dev  </em> </p>
+<p align="center">
+  <img src="https://github.com/respp/respp/blob/main/cat-typing.gif" width="300">
+</p>
 
-<a target="_blank" href="https://www.linkedin.com/in/renzo-espinosa-barcos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:renzoespinosa.b@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-  <a href="https://renzobarcos.site" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/renzo-espinosa-barcos/" target="_blank" rel="noreferrer"> <img src="https://github.com/respp/respp/blob/main/5296501_linkedin_network_linkedin%20logo_icon.png" alt="c" width="40" height="40"/></a> &nbsp; &nbsp;
+  <a href="https://x.com/Barcosren" target="_blank" rel="noreferrer"> <img src="twitter-darkbackground.jpg" alt="c" width="40" height="40"/></a>
+</p>
+
+### Desarrollador de Software
+
+### Hola 👋, Soy Renzo Barcos
+
+---
+
+He trabajado como desarrollador de software para diferentes proyectos en los últimos 2 años, y actualmente estoy aprendiendo sobre Web3. Me encanta descubrir nuevas tecnologías, aunque durante mucho tiempo mi enfoque principal ha sido el desarrollo frontend.
+
+- 🚀 Actualmente trabajo como desarrollador frontend
+- 📚 Estoy aprendiendo tecnologías de la Web3
 
 ### A little more about me...  
 
 ```javascript
 let RenzoBarcos = {
-    code: ["React", "NodeJs", "Next.js", "Redux", "Express", "HTML", "CSS", "Javascript", "Mysql", "Astro", "MongoDB"],
-    tools: ["React", "HTML", "CSS, "Bootstrap", "SASS", "Styled-components", "Next.js", "Redux"],
+    code: ["NextJs", "NodeJs", "React", "Redux", "Express", "HTML", "CSS", "Typescript", "Mysql", "Astro", "MongoDB", "Docker", "TailwindCSS", "Styled-Components"],
+    tools: ["Windows", "WSL2", "Git", "Github", "Trello", "Jira", "Scrum", "Kanban"],
 };
 ```
 
