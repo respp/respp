@@ -3,24 +3,24 @@
   <a href="https://x.com/Barcosren" target="_blank" rel="noreferrer"> <img src="twitter-darkbackground.jpg" alt="c" width="40" height="40"/></a>
 </p>
 
-### Desarrollador de Software
+### Software Developer
 
-### Hola 👋🏻, Soy Renzo Barcos
+### Hi 👋🏻, I’m Renzo Barcos
 
 ---
 
-He trabajado como desarrollador de software para diferentes proyectos en los últimos 2 años, y actualmente estoy aprendiendo sobre Web3. Me encanta descubrir nuevas tecnologías, aunque durante mucho tiempo mi enfoque principal ha sido el desarrollo frontend.
+I have worked as a software developer on various projects over the past 2 years, currently maintaining open source projects and developing blockchain-based applications on Stellar and StarkNet. I am also learning and implementing smart contracts using Cairo and Rust. I love discovering new technologies, although for a long time my main focus has been frontend development.
 
-- 🚀 Actualmente trabajo como desarrollador fullstack
-- 📚 Estoy aprendiendo tecnologías de la Web3
+- 🚀 I currently work as a fullstack developer
+- 📚 I am learning Web3 technologies, including smart contracts and decentralized apps
+- 🛠️ Maintainer of open source projects like PayStell and StellarRent
+- 🔗 Building decentralized applications with Stellar blockchain and Soroban smart contracts
 
-### Un poco más sobre mí...  
+### A little more about me...
 
 ```javascript
 let RenzoBarcos = {
-    code: ["NextJs", "NodeJs", "Cairo", "Rust" "React", "NodeJs", "Express", "HTML", "CSS", "Typescript", "Mysql", "Astro", "MongoDB", "Docker", "TailwindCSS", "Styled-Components"],
+    code: ["NextJs", "NodeJs", "Cairo", "Rust", "React", "Express", "HTML", "CSS", "Typescript", "MySQL", "Astro", "MongoDB", "Docker", "TailwindCSS", "Styled-Components"],
     tools: ["Windows", "WSL2", "Git", "Github", "Trello", "Jira", "Scrum", "Kanban"],
+    interests: ["Blockchain Development", "Smart Contracts", "Web3", "Open Source", "Decentralized Applications"],
 };
-```
-
-
