@@ -9,7 +9,7 @@
 
 ---
 
-I have worked as a software developer on various projects over the past 2 years, currently maintaining open source projects and developing blockchain-based applications on Stellar and StarkNet. I am also learning and implementing smart contracts using Cairo and Rust. I love discovering new technologies, although for a long time my main focus has been frontend development.
+I have worked as a software developer on various projects over the past 4 years, currently maintaining open source projects and developing blockchain-based applications on Stellar and StarkNet. I am also learning and implementing smart contracts using Cairo and Rust. I love discovering new technologies, although for a long time my main focus has been frontend development.
 
 - 🚀 I currently work as a fullstack developer
 - 📚 I am learning Web3 technologies, including smart contracts and decentralized apps
